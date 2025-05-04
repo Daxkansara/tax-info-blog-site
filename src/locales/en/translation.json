@@ -1,0 +1,55 @@
+
+    {
+      "siteName": "Tax Innovation",
+      "tagline": "Your expert source for tax, accounting, and business tips. Making taxes saving you time & money.",
+      "nav": {
+        "home": "Home",
+        "topics": "Topics",
+        "services": "Services",
+        "about": "About",
+        "contact": "Contact",
+        "searchPlaceholder": "Search articles..."
+      },
+      "footer": {
+        "newsletterTitle": "Newsletter",
+        "newsletterPrompt": "Subscribe for the latest tax & business tips.",
+        "subscribe": "Subscribe",
+        "quickLinks": "Quick Links",
+        "privacy": "Privacy",
+        "terms": "Terms",
+        "copyright": "© {{year}} Tax Innovation (Jatin Soni & Associates). All rights reserved."
+      },
+      "homePage": {
+        "recentArticles": "Recent Articles",
+        "viewAll": "View All",
+        "exploreTopics": "Explore Topics",
+        "allTopics": "All Topics",
+        "whyChoose": "Why Choose Tax Innovation?",
+        "expertGuidance": "Expert Guidance",
+        "expertGuidanceDesc": "Benefit from insights provided by experienced tax consultants and professional accountants.",
+        "actionableTips": "Actionable Tips",
+        "actionableTipsDesc": "Get practical advice on tax savings, accounting best practices, and business growth strategies.",
+        "complianceFocused": "Compliance Focused",
+        "complianceFocusedDesc": "Stay updated on the latest tax laws and compliance requirements to keep your business on track."
+      },
+      "blogPage": {
+        "title": "Tax & Business Insights",
+        "search": "Search",
+        "allTopics": "All Topics",
+        "noArticlesFound": "No articles found",
+        "noArticlesDesc": "Try adjusting your search or filter to find what you're looking for."
+      },
+      "postCard": {
+        "readArticle": "Read Article"
+      },
+      "featuredPost": {
+        "featured": "Featured"
+      },
+      "languages": {
+        "en": "English",
+        "hi": "हिन्दी",
+        "gu": "ગુજરાતી"
+      },
+      "language": "Language"
+    }
+  
